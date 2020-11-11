@@ -1,0 +1,28 @@
+<HTML>
+
+<HEAD>
+<TITLE>GHIBLI</TITLE>
+</HEAD>
+
+<body background=Sanriobc.jpg>
+
+<H3>
+<a name="inicio"></a>
+<ol>
+<FONT FACE="Cooper Black">
+<font color="F974A1">
+<li value="3"><a href="#Series">Series</li>
+<p>
+<li><a href="#Estética de la animación">Estética de la animación</a></li>
+<p>
+</H3>
+</FONT>
+</ol>
+<div align="center"><img src="Ghibli5.jpg" width="350" height="250"/></div>
+<hr size="10" color="#fff5b6"></hr>
+<p>
+<ol>
+<FONT FACE="Cambria"><FONT COLOR="black"><FONT SIZE="5">
+<p><br><b><a name="Series"></a><li value="3">Series:</b>
+</FONT>
+<p align=justify><img src=Ghibli6.jpg widht="300" height="200" align=right><FONT SIZE="4">

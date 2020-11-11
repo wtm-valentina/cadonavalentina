@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>SANRIO</TITLE>
+</HEAD>
+
+<body background=fondo.jpg>
+
+<FONT FACE="Cooper Black">
+<font color="F974A1">
+<a name="inicio"></a>
+<ol><b>
+<H3>
+<li><a href="#Películas">Películas</a></li>
+<p>
+<li><a href="#Temáticas">Temáticas</a></li>
+<p>
+</FONT>
+</H3>
+</b>
+</ol>
+<div align="center"><img src="Ghibli2.jpg" width="350" height="250"/></div>
+<hr  size="15" color="#ffb4c3"></hr>
+<p>
+<ol>
+<FONT FACE="Cambria"><FONT COLOR="black"><FONT SIZE="5">
+<p><br><b><a name="Películas"></a><li>Películas</b>
+</FONT>
+<p align=justify> <img src=Ghibli3.jpg widht="300" height="200" align=right><FONT SIZE="4"><b>
